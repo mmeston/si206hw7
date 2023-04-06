@@ -1,5 +1,5 @@
 
-# Your name: Max Me
+# Your name: Max Meston
 # Your student id: 11712492
 # Your email: mmeston@umich.edu
 # List who you have worked with on this project: Emma Moore, Hudson Bush
